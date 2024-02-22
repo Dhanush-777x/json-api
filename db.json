@@ -1,73 +1,79 @@
 [
   {
-    "name": "Dengue",
-    "question": "What is Dengue?",
-    "Overview": "Dengue is a viral disease. It is transmitted by the infective bite of Aedes aegypti and Aedes albopictus mosquitoes. These mosquitoes also spread Zika, Chikungunya, and other diseases. Man develops disease after 5-6 days of being bitten by an infective mosquito. Infected person with Dengue becomes infective to mosquitoes 6 to 12 hours before the onset of the disease and remains so upto 3 to 5 days.Dengue is caused by one of any of four related viruses: Dengue virus 1, 2, 3, and 4.  A person can be infected with dengue multiple times in their life.",
-    "type1": "Dengue Fever: Dengue Fever is a flu-like illness",
-    "type2": "Dengue Haemorrhagic Fever (DHF): Dengue Haemorrhagic Fever (DHF) is a more severe form of disease, which may cause death. Person suspected of having dengue fever or DHF must attend the nearest medical facility.",
-    "fact1": "Almost half of the world’s population, about 4 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk.",
-    "fact2": "Each year, up to 400 million people are infected by a dengue virus.",
-    "fact3": "Approximately 100 million people get sick from infection, and 40,000 die from severe dengue.",
-    "measure1title": "Personal Prophylactic Measures",
-    "measure1description": "Use of mosquito repellent creams, liquids, coils, mats etc. Wearing of full sleeve shirts and full pants with socks. Use of bed nets for sleeping infants and young children during day time to prevent mosquito bite.",
-    "measure2title": "Biological Control",
-    "measure2description": "Use of larvivorous fishes in ornamental tanks, fountains, etc."
-    "measure3title": "Chemical Control",
-    "measure3description": "Use of chemical larvicides like Temephos 50% EC in big water holdings. Aerosol space spray during day time in and around the houses, market places, large campuses and buildings using Pyrethrum 2% Extract.",
-    "measure4title": "Environmental Management & Source Reduction Methods",
-    "measure4description": "Identification and destruction of mosquito breeding sources. Management of roof tops, porticos and sunshades. The water storing containers should be scrubbed and washed with bleaching powder every week. They should be properly covered with a cloth or sheet so as to prevent mosquito breeding in the water containers. Reliable water supply. Observation of weekly dry day.",
-    "measure5title": "Health Education",
-    "measure5description": "Impart knowledge to common people regarding the disease and vector through various media sources like T.V., Radio, Cinema slides, etc.",
-    "measure6title": "Dengue Fever mobile App in Tamil",
-    "measure6description": "The Dengue Fever Mobile App can be downloaded from Google Play Store. Dengue Fever Tamil App provides complete pictorial information about the sources where Aedes mosquitoes breed along with an exhaustive Frequently Asked Questions. Information on effective siddha treatment is made available.",
-    "measure7title": "Community Participation",
-    "measure7description": "Sensitizing and involving the community for detection of Aedes breeding places and their elimination.",
-    "risk1": "Mosquito Exposure: Being in areas where mosquitoes that carry the dengue virus are present increases the risk.",
-    "risk2": "Travel: Traveling to regions where dengue is endemic or epidemic exposes individuals to the virus.",
-    "risk3": "Lack of Vector Control: Poor mosquito control measures in urban or rural areas can lead to higher mosquito populations and thus increase the risk of dengue transmission.",
-    "risk4": "Standing Water: Accumulation of stagnant water in containers or areas around homes provides breeding grounds for mosquitoes that transmit the virus.",
-    "risk5": "Climate Factors: Weather conditions such as heavy rainfall followed by periods of drought can create environments conducive to mosquito breeding and dengue transmission.",
-    "risk6": "Poor Sanitation: Inadequate waste management and sanitation practices can contribute to the proliferation of mosquitoes.",
-    "risk7": "Individual Susceptibility: Factors such as age, immunity, and overall health status can influence an individual's susceptibility to dengue infection.",
-    "ayush1": {
-            "title": "Papaya Leaf Juice",
-            "description": "Fresh Papaya leaves (excluding veins) should be mixed with a little cold water and ground and filtered. Consume 10 ml four times a day. Fever will subside on consumption for five days. Even after recovery from fever this may be continued for another two days. Papaya leaf juice is a traditional homemade natural medicine."
-    },
-    "ayush2": {
-        "title": "Malai Vembu Leaf (Hill Neem) Juice",
-        "description": "Fresh Malaivembu leaves should be mixed with a little cold water and ground and filtered. Consume 10 ml two to three times a day. Fever will subside on consumption for five days. Even after recovery from fever this may be continued for another two days. Malaivembu leaf juice is a traditional homemade natural medicine."
-    },
-    "ayush3": {
-        "title": "Nilavembu Kudineer",
-        "description": "Boil 10 grams of Nilavembu Kudineer Powder in 100 ml of water until it gets reduced to half and consume 50 ml two times per day in the morning and evening. Prepare the Nilavembu Kudineer freshly for each dose. Fever will subside on consumption for five days. Even after recovery from fever this may be continued for another two days. Nilavembu Kudineer powder is available in all Siddha wings in Government Hospitals and Primary Health Centres free of cost."
-    }
+  "_id": {
+    "$oid": "65d6dbe8cbfaac34b6dee5eb"
+  },
+  "name": "Dengue",
+  "question": "What is Dengue?",
+  "Overview": "Dengue is a viral disease. It is transmitted by the infective bite of Aedes aegypti and Aedes albopictus mosquitoes. These mosquitoes also spread Zika, Chikungunya, and other diseases. Man develops disease after 5-6 days of being bitten by an infective mosquito. Infected person with Dengue becomes infective to mosquitoes 6 to 12 hours before the onset of the disease and remains so upto 3 to 5 days.Dengue is caused by one of any of four related viruses: Dengue virus 1, 2, 3, and 4.  A person can be infected with dengue multiple times in their life.",
+  "type1": "Dengue Fever: Dengue Fever is a flu-like illness",
+  "type2": "Dengue Haemorrhagic Fever (DHF): Dengue Haemorrhagic Fever (DHF) is a more severe form of disease, which may cause death. Person suspected of having dengue fever or DHF must attend the nearest medical facility.",
+  "fact1": "Almost half of the world’s population, about 4 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk.",
+  "fact2": "Each year, up to 400 million people are infected by a dengue virus.",
+  "fact3": "Approximately 100 million people get sick from infection, and 40,000 die from severe dengue.",
+  "measure1title": "Personal Prophylactic Measures",
+  "measure1description": "Use of mosquito repellent creams, liquids, coils, mats etc. Wearing of full sleeve shirts and full pants with socks. Use of bed nets for sleeping infants and young children during day time to prevent mosquito bite.",
+  "measure2title": "Biological Control",
+  "measure2description": "Use of larvivorous fishes in ornamental tanks, fountains, etc.",
+  "measure3title": "Chemical Control",
+  "measure3description": "Use of chemical larvicides like Temephos 50% EC in big water holdings. Aerosol space spray during day time in and around the houses, market places, large campuses and buildings using Pyrethrum 2% Extract.",
+  "measure4title": "Environmental Management & Source Reduction Methods",
+  "measure4description": "Identification and destruction of mosquito breeding sources. Management of roof tops, porticos and sunshades. The water storing containers should be scrubbed and washed with bleaching powder every week. They should be properly covered with a cloth or sheet so as to prevent mosquito breeding in the water containers. Reliable water supply. Observation of weekly dry day.",
+  "measure5title": "Health Education",
+  "measure5description": "Impart knowledge to common people regarding the disease and vector through various media sources like T.V., Radio, Cinema slides, etc.",
+  "measure6title": "Dengue Fever mobile App in Tamil",
+  "measure6description": "The Dengue Fever Mobile App can be downloaded from Google Play Store. Dengue Fever Tamil App provides complete pictorial information about the sources where Aedes mosquitoes breed along with an exhaustive Frequently Asked Questions. Information on effective siddha treatment is made available.",
+  "measure7title": "Community Participation",
+  "measure7description": "Sensitizing and involving the community for detection of Aedes breeding places and their elimination.",
+  "risk1": "Mosquito Exposure: Being in areas where mosquitoes that carry the dengue virus are present increases the risk.",
+  "risk2": "Travel: Traveling to regions where dengue is endemic or epidemic exposes individuals to the virus.",
+  "risk3": "Lack of Vector Control: Poor mosquito control measures in urban or rural areas can lead to higher mosquito populations and thus increase the risk of dengue transmission.",
+  "risk4": "Standing Water: Accumulation of stagnant water in containers or areas around homes provides breeding grounds for mosquitoes that transmit the virus.",
+  "risk5": "Climate Factors: Weather conditions such as heavy rainfall followed by periods of drought can create environments conducive to mosquito breeding and dengue transmission.",
+  "risk6": "Poor Sanitation: Inadequate waste management and sanitation practices can contribute to the proliferation of mosquitoes.",
+  "risk7": "Individual Susceptibility: Factors such as age, immunity, and overall health status can influence an individual's susceptibility to dengue infection.",
+  "ayush1": {
+    "title": "Papaya Leaf Juice",
+    "description": "Fresh Papaya leaves (excluding veins) should be mixed with a little cold water and ground and filtered. Consume 10 ml four times a day. Fever will subside on consumption for five days. Even after recovery from fever this may be continued for another two days. Papaya leaf juice is a traditional homemade natural medicine."
+  },
+  "ayush2": {
+    "title": "Malai Vembu Leaf (Hill Neem) Juice",
+    "description": "Fresh Malaivembu leaves should be mixed with a little cold water and ground and filtered. Consume 10 ml two to three times a day. Fever will subside on consumption for five days. Even after recovery from fever this may be continued for another two days. Malaivembu leaf juice is a traditional homemade natural medicine."
+  },
+  "ayush3": {
+    "title": "Nilavembu Kudineer",
+    "description": "Boil 10 grams of Nilavembu Kudineer Powder in 100 ml of water until it gets reduced to half and consume 50 ml two times per day in the morning and evening. Prepare the Nilavembu Kudineer freshly for each dose. Fever will subside on consumption for five days. Even after recovery from fever this may be continued for another two days. Nilavembu Kudineer powder is available in all Siddha wings in Government Hospitals and Primary Health Centres free of cost."
+  }
 },
-  {
-    "name": "Chikungunya",
-    "question": "What is Chikungunya?",
-    "Overview": "Chikungunya virus is spread to people by the bite of an infected mosquito. The most common symptoms of infection are fever and joint pain. Other symptoms may include headache, muscle pain, joint swelling, or rash. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, and the Caribbean, Indian and Pacific Oceans. There is a risk the virus will be spread to unaffected areas by infected travelers. There is currently no medicine to treat chikungunya virus infection.",
-    "transmission": "Chikungunya virus is transmitted by mosquitoes, most commonly Aedes (Stegomyia) aegypti and Aedes (Stegomyia) albopictus, which can also transmit dengue and Zika viruses. These mosquitoes bite primarily during daylight hours. They lay eggs in containers with standing water. Both species feed outdoors, and Aedes aegypti also feeds indoors. When an uninfected mosquito feeds on a person who has CHIKV circulating in their blood, the mosquito can ingest the virus. The virus then replicates in the mosquito over several days, gets to its salivary glands, and can be transmitted into a new human host when the mosquito bites them. The virus again begins to replicate in this newly infected person and reaches high concentrations in their blood, at which point they can further infect other mosquitoes and perpetuate the transmission cycle",
-    "measure1title": "Vaccination",
-    "measure1description": "No vaccine or medication is available to prevent chikungunya virus infection or disease. Reduce mosquito exposure by Using air conditioning or window/door screens, using mosquito repellents on exposed skin, wearing long-sleeved shirts and long pants, wearing permethrin-treated clothing. Empty standing water from outdoor containers. People suspected to have chikungunya or dengue should be protected from further mosquito exposure during the first week of illness to reduce the risk of further transmission. People at increased risk for severe disease should consider not traveling to areas with ongoing chikungunya outbreak.",
-    "risk1": "Mosquito Exposure: Being in areas where Aedes mosquitoes, particularly Aedes aegypti and Aedes albopictus, are present increases the risk of chikungunya virus transmission.",
-    "risk2": "Travel: Traveling to regions where chikungunya is endemic or experiencing outbreaks increases the risk of exposure to the virus.",
-    "risk3": "Outdoor Activities: Spending time outdoors, especially during periods of peak mosquito activity, increases the likelihood of being bitten by infected mosquitoes.",
-    "risk4": "Lack of Personal Protection Measures: Not using mosquito repellent, wearing long-sleeved clothing, or sleeping under mosquito nets in endemic areas increases the risk of mosquito bites.",
-    "risk5": "Urban Settings: Urban environments with dense populations and inadequate mosquito control measures can facilitate the spread of chikungunya virus.",
-    "risk6": "Climate Factors: Weather conditions such as high temperatures and rainfall can influence mosquito populations and their activity, affecting the risk of chikungunya transmission.",
-    "risk7": "Age and Health Status: While people of all ages can be infected, older adults and individuals with weakened immune systems may be at higher risk of developing severe symptoms.",
-    "risk8": "Previous Exposure: Previous infection with chikungunya virus can confer immunity to subsequent infections, reducing the risk of reinfection and severe illness. However, individuals who have not been previously exposed are more susceptible to infection.",
-    "ayush1": {
-            "title": "Ayurveda",
-            "description": "Chikungunya treatments people are majorly depending upon ayurveda. Chikungunya have another name in ayurveda which is known as sandhijwara (fever of joints). It is considered as vata dosha disorder. The herbs such as sacred basil (tulsi), carrot, grapes are usual recommended as relief for the pain and fever. Ayurvedic massage also done for the relief of joint pain. The treatment recommends the patients: To increase the intake of fluid containing foods and vegetables, Reduce the use of oil, Avoid the intake of tea and coffee."
-    },
-    "ayush2": {
-        "title": "Homeopathy",
-        "description": "Nowadays effective medicines are available in homeopathy for the treatment of chikungunya which possess speed recovery. Some of the medicines are: Eupatorium-perf Pyroginum, Rhustos, Arnica, Bryonia."
-    },
-    "ayush3": {
-        "title": "Siddha",
-        "description": "For chikungunya medicines are available in siddha. Some of them are: Nilavenbu kudineer mixture, Pinda thailam, Karpooraadhi thailam."
-    }
+ {
+  "_id": {
+    "$oid": "65d6dbe8cbfaac34b6dee5ec"
+  },
+  "name": "Chikungunya",
+  "question": "What is Chikungunya?",
+  "Overview": "Chikungunya virus is spread to people by the bite of an infected mosquito. The most common symptoms of infection are fever and joint pain. Other symptoms may include headache, muscle pain, joint swelling, or rash. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, and the Caribbean, Indian and Pacific Oceans. There is a risk the virus will be spread to unaffected areas by infected travelers. There is currently no medicine to treat chikungunya virus infection.",
+  "transmission": "Chikungunya virus is transmitted by mosquitoes, most commonly Aedes (Stegomyia) aegypti and Aedes (Stegomyia) albopictus, which can also transmit dengue and Zika viruses. These mosquitoes bite primarily during daylight hours. They lay eggs in containers with standing water. Both species feed outdoors, and Aedes aegypti also feeds indoors. When an uninfected mosquito feeds on a person who has CHIKV circulating in their blood, the mosquito can ingest the virus. The virus then replicates in the mosquito over several days, gets to its salivary glands, and can be transmitted into a new human host when the mosquito bites them. The virus again begins to replicate in this newly infected person and reaches high concentrations in their blood, at which point they can further infect other mosquitoes and perpetuate the transmission cycle",
+  "measure1title": "Vaccination",
+  "measure1description": "No vaccine or medication is available to prevent chikungunya virus infection or disease. Reduce mosquito exposure by Using air conditioning or window/door screens, using mosquito repellents on exposed skin, wearing long-sleeved shirts and long pants, wearing permethrin-treated clothing. Empty standing water from outdoor containers. People suspected to have chikungunya or dengue should be protected from further mosquito exposure during the first week of illness to reduce the risk of further transmission. People at increased risk for severe disease should consider not traveling to areas with ongoing chikungunya outbreak.",
+  "risk1": "Mosquito Exposure: Being in areas where Aedes mosquitoes, particularly Aedes aegypti and Aedes albopictus, are present increases the risk of chikungunya virus transmission.",
+  "risk2": "Travel: Traveling to regions where chikungunya is endemic or experiencing outbreaks increases the risk of exposure to the virus.",
+  "risk3": "Outdoor Activities: Spending time outdoors, especially during periods of peak mosquito activity, increases the likelihood of being bitten by infected mosquitoes.",
+  "risk4": "Lack of Personal Protection Measures: Not using mosquito repellent, wearing long-sleeved clothing, or sleeping under mosquito nets in endemic areas increases the risk of mosquito bites.",
+  "risk5": "Urban Settings: Urban environments with dense populations and inadequate mosquito control measures can facilitate the spread of chikungunya virus.",
+  "risk6": "Climate Factors: Weather conditions such as high temperatures and rainfall can influence mosquito populations and their activity, affecting the risk of chikungunya transmission.",
+  "risk7": "Age and Health Status: While people of all ages can be infected, older adults and individuals with weakened immune systems may be at higher risk of developing severe symptoms.",
+  "risk8": "Previous Exposure: Previous infection with chikungunya virus can confer immunity to subsequent infections, reducing the risk of reinfection and severe illness. However, individuals who have not been previously exposed are more susceptible to infection.",
+  "ayush1": {
+    "title": "Ayurveda",
+    "description": "Chikungunya treatments people are majorly depending upon ayurveda. Chikungunya have another name in ayurveda which is known as sandhijwara (fever of joints). It is considered as vata dosha disorder. The herbs such as sacred basil (tulsi), carrot, grapes are usual recommended as relief for the pain and fever. Ayurvedic massage also done for the relief of joint pain. The treatment recommends the patients: To increase the intake of fluid containing foods and vegetables, Reduce the use of oil, Avoid the intake of tea and coffee."
+  },
+  "ayush2": {
+    "title": "Homeopathy",
+    "description": "Nowadays effective medicines are available in homeopathy for the treatment of chikungunya which possess speed recovery. Some of the medicines are: Eupatorium-perf Pyroginum, Rhustos, Arnica, Bryonia."
+  },
+  "ayush3": {
+    "title": "Siddha",
+    "description": "For chikungunya medicines are available in siddha. Some of them are: Nilavenbu kudineer mixture, Pinda thailam, Karpooraadhi thailam."
+  }
 }
 ]
