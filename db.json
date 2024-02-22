@@ -56,6 +56,35 @@
         "description": "Boil 10 grams of Nilavembu Kudineer Powder in 100 ml of water until it gets reduced to half and consume 50 ml two times per day in the morning and evening. Prepare the Nilavembu Kudineer freshly for each dose. Fever will subside on consumption for five days. Even after recovery from fever this may be continued for another two days. Nilavembu Kudineer powder is available in all Siddha wings in Government Hospitals and Primary Health Centres free of cost."
     }
 },
+  {
+    "name": "Chikungunya",
+    "question": "What is Chikungunya?",
+    "Overview": "Chikungunya virus is spread to people by the bite of an infected mosquito. The most common symptoms of infection are fever and joint pain. Other symptoms may include headache, muscle pain, joint swelling, or rash. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, and the Caribbean, Indian and Pacific Oceans. There is a risk the virus will be spread to unaffected areas by infected travelers. There is currently no medicine to treat chikungunya virus infection. Chikungunya virus is transmitted by mosquitoes, most commonly Aedes (Stegomyia) aegypti and Aedes (Stegomyia) albopictus, which can also transmit dengue and Zika viruses. These mosquitoes bite primarily during daylight hours. They lay eggs in containers with standing water. Both species feed outdoors, and Aedes aegypti also feeds indoors. When an uninfected mosquito feeds on a person who has CHIKV circulating in their blood, the mosquito can ingest the virus. The virus then replicates in the mosquito over several days, gets to its salivary glands, and can be transmitted into a new human host when the mosquito bites them. The virus again begins to replicate in this newly infected person and reaches high concentrations in their blood, at which point they can further infect other mosquitoes and perpetuate the transmission cycle",
+    "measure1": {
+            "title": "Vaccination",
+            "description": "No vaccine or medication is available to prevent chikungunya virus infection or disease. Reduce mosquito exposure by Using air conditioning or window/door screens, using mosquito repellents on exposed skin, wearing long-sleeved shirts and long pants, wearing permethrin-treated clothing. Empty standing water from outdoor containers. People suspected to have chikungunya or dengue should be protected from further mosquito exposure during the first week of illness to reduce the risk of further transmission. People at increased risk for severe disease should consider not traveling to areas with ongoing chikungunya outbreak."
+    },
+    "risk1": "Mosquito Exposure: Being in areas where Aedes mosquitoes, particularly Aedes aegypti and Aedes albopictus, are present increases the risk of chikungunya virus transmission.",
+    "risk2": "Travel: Traveling to regions where chikungunya is endemic or experiencing outbreaks increases the risk of exposure to the virus.",
+    "risk3": "Outdoor Activities: Spending time outdoors, especially during periods of peak mosquito activity, increases the likelihood of being bitten by infected mosquitoes.",
+    "risk4": "Lack of Personal Protection Measures: Not using mosquito repellent, wearing long-sleeved clothing, or sleeping under mosquito nets in endemic areas increases the risk of mosquito bites.",
+    "risk5": "Urban Settings: Urban environments with dense populations and inadequate mosquito control measures can facilitate the spread of chikungunya virus.",
+    "risk6": "Climate Factors: Weather conditions such as high temperatures and rainfall can influence mosquito populations and their activity, affecting the risk of chikungunya transmission.",
+    "risk7": "Age and Health Status: While people of all ages can be infected, older adults and individuals with weakened immune systems may be at higher risk of developing severe symptoms.",
+    "risk8": "Previous Exposure: Previous infection with chikungunya virus can confer immunity to subsequent infections, reducing the risk of reinfection and severe illness. However, individuals who have not been previously exposed are more susceptible to infection."
+    "ayush1": {
+            "title": "Ayurveda",
+            "description": "Chikungunya treatments people are majorly depending upon ayurveda. Chikungunya have another name in ayurveda which is known as sandhijwara (fever of joints). It is considered as vata dosha disorder. The herbs such as sacred basil (tulsi), carrot, grapes are usual recommended as relief for the pain and fever. Ayurvedic massage also done for the relief of joint pain. The treatment recommends the patients: To increase the intake of fluid containing foods and vegetables, Reduce the use of oil, Avoid the intake of tea and coffee."
+    },
+    "ayush2": {
+        "title": "Homeopathy",
+        "description": "Nowadays effective medicines are available in homeopathy for the treatment of chikungunya which possess speed recovery. Some of the medicines are: Eupatorium-perf Pyroginum, Rhustos, Arnica, Bryonia."
+    },
+    "ayush3": {
+        "title": "Siddha",
+        "description": "For chikungunya medicines are available in siddha. Some of them are: Nilavenbu kudineer mixture, Pinda thailam, Karpooraadhi thailam."
+    }
+},
 
   {
     "name": "Diabetes",
