@@ -1,0 +1,92 @@
+{
+    "_id": {
+      "$oid": "65d71237df53143a7bd8a73d"
+    },
+    "Name": "Diabetes",
+    "question": "what is Diabetes?",
+    "Overview": "Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Insulin is a hormone that regulates blood sugar. Hyperglycaemia, or raised blood sugar, is a common effect of uncontrolled diabetes and over time leads to serious damage to many of the body's systems.Adults with diabetes have a two- to three-fold increased risk of heart attacks and strokes. Combined with reduced blood flow, neuropathy (nerve damage) in the feet increases the chance of foot ulcers, infection, and the eventual need for limb amputation. Diabetic retinopathy is an important cause of blindness and occurs as a result of long-term accumulated damage to the small blood vessels in the retina. Diabetes is among the leading causes of kidney failure.",
+    "Question2": "What type of Diabetes do I have?",
+    "Type1 Diabetes": "If you have type 1 diabetes, your pancreas doesn’t make insulin or makes very little insulin. Insulin helps blood sugar enter the cells in your body for use as energy. Without insulin, blood sugar can’t get into cells and builds up in the bloodstream. High blood sugar is damaging to the body and causes many of the symptoms and complications of diabetes, it can develop at any age. Type 1 diabetes is less common than type 2—about 5-10% of people with diabetes have type 1. ",
+    "What causes Type 1 Diabetes?": "Type 1 diabetes is thought to be caused by an autoimmune reaction (the body attacks itself by mistake). This reaction destroys the cells in the pancreas that make insulin, called beta cells. This process can go on for months or years before any symptoms appear.Some people have certain genes (traits passed on from parent to child) that make them more likely to develop type 1 diabetes). However, many of them won’t go on to have type 1 diabetes even if they have the genes. A trigger in the environment, such as a virus, may also play a part in developing type 1 diabetes. Diet and lifestyle habits don’t cause type 1 diabetes.",
+    "Type2 Diabetes": "Type 2 diabetes most often develops in people over age 45, but more and more children, teens, and young adults are also developing it.",
+    "What causes Type 2 Diabetes?": "Insulin is a hormone made by your pancreas that acts like a key to let blood sugar into the cells in your body for use as energy. If you have type 2 diabetes, cells don’t respond normally to insulin, this is called insulin resistance. Your pancreas makes more insulin to try to get cells to respond. Eventually your pancreas can’t keep up, and your blood sugar rises, setting the stage for prediabetes and type 2 diabetes. High blood sugar is damaging to the body and can cause other serious health problems, such as heart disease, vision loss, and kidney disease.",
+    "Gestational Diabetes": "Gestational diabetes occurs when your body can’t make enough insulin during your pregnancy. Insulin is a hormone made by your pancreas that acts like a key to let blood sugar into the cells in your body for use as energy.During pregnancy, your body makes more hormones and goes through other changes, such as weight gain. These changes cause your body’s cells to use insulin less effectively, a condition called insulin resistance. Insulin resistance increases your body’s need for insulin.All pregnant women have some insulin resistance during late pregnancy. However, some women have insulin resistance even before they get pregnant. They start pregnancy with an increased need for insulin and are more likely to have gestational diabetes.Gestational diabetes usually goes away after you give birth, but increases your risk for type 2 diabetes. Your baby is more likely to have obesity as a child or teen, and to develop type 2 diabetes later in life.Before you get pregnant, you may be able to prevent gestational diabetes with lifestyle changes. These include losing weight if you’re overweight, eating a healthy diet, and getting regular physical activity.",
+    "risk1": "Had gestational diabetes during a previous pregnancy.",
+    "risk2": "Have given birth to a baby who weighed over 4 kilograms",
+    "risk3": "Are Overweight",
+    "risk4": "Age more than 25",
+    "risk5": "Have a family history of Type 2 Diabetes",
+    "risk6": "Have a hormone disorder called polycystic ovary syndrome (PCOS).",
+    "Know more about Hypoglycemia and Diabetic Ketoacidosis": "These two conditions are common complications of diabetes, and you’ll need to know how to handle them. Meet with your doctor for step-by-step instructions.Hypoglycemia (low blood sugar) can happen quickly and needs to be treated quickly. It’s most often caused by:",
+    "c1": "Too much Insulin",
+    "c2": "waitinf too long for a meal or Snack",
+    "c3": "Not eating Enough",
+    "c4": "Getting Extra Physical Activity",
+    "c5": "Talk to your doctor if you have low blood sugar several times a week",
+    "Diabetic ketoacidosis (DKA) ": "Diabetic ketoacidosis (DKA) is a serious complication of diabetes that can be life-threatening. DKA develops when you don’t have enough insulin to let blood sugar into your cells. Very high blood sugar and low insulin levels lead to DKA. The two most common causes are illness and missing insulin shots. Talk with your doctor and make sure you understand how you can prevent and treat DKA.",
+    "How to Manage Diabetes?": "You may be able to manage your diabetes with healthy eating and being active, or your doctor may prescribe insulin, other injectable medications, or oral diabetes medicines to help manage your blood sugar and avoid complications. It’s also important to keep your blood pressure and cholesterol close to the targets your doctor sets for you and get necessary screening tests. Develop a healthy eating and activity plan.You’ll need to check your blood sugar regularly. Keeping your blood sugar levels as close to target as possible will help you prevent or delay diabetes-related complications.Stress is a part of life, but it can make managing diabetes harder, including managing your blood sugar levels and dealing with daily diabetes care. Regular physical activity, getting enough sleep, and relaxation exercises can help. Make regular appointments with your health care team to be sure you’re on track with your treatment plan and to get help with new ideas and strategies if needed.Monitor your feet, skin, and eyes to catch problems early.",
+    "T11": "Family history: Having a parent, brother, or sister with type 1 diabetes.",
+    "T12": "Age: You can get type 1 diabetes at any age, but it usually develops in children, teens, or young adults.",
+    "T21": "Have Pre-Diabetes",
+    "T22": "Are Overweight",
+    "T23": "Are 45 years Old",
+    "T24": "Have a Blood-relation with a person with Type-2 Diabetes",
+    "T25": "Are physically active less than 3 times a week.",
+    "T26": "Have ever had gestational diabetes (diabetes during pregnancy) or given birth to a baby who weighed over 9 pounds.",
+    "T27": "If you have non-alcoholic fatty liver disease you may also be at risk for type 2 diabetes",
+    "s1": {
+      "T": "GENERAL PHYSICIANS",
+      "D": "Primary care physicians are important because they are among the first specialists to notice when your blood sugar levels have increased. This is often detected during routine checkups and screening. Your family doctor conducts various screening tests, including checking for diabetes. If you have diabetes, this physician will prescribe medication and help you to manage this condition. He may also refer you to other diabetes doctors who can treat and manage this condition. Often, your primary care doctor will work together with other specialists to maintain your health."
+    },
+    "s2": {
+      "T": "ENDOCRINOLOGIST",
+      "D": "An endocrinologist is a diabetes expert. This physician specializes in the endocrine gland system. Endocrinologists work with a team of other specialists to manage diabetes. People with type 1 diabetes seek treatment from an endocrinologist. But patients with type 2 diabetes can be managed by their primary care doctor most of the time but in some cases might need an Endocrinologist only if they experience difficulties in maintaining their blood sugar levels."
+    },
+    "s3": {
+      "T": "NEPHROLOGIST",
+      "D": "Patients with diabetes have a higher risk of developing kidney disease with time. It takes many years for uncontrolled Diabetes to cause kidney disease. A nephrologist is an expert in kidney disease. Your family doctor can conduct six-monthly tests to ensure that your kidneys are not affected by Diabetes. The nephrologist helps manage your kidney disease if present. You don’t need to see a Nephrologist if your kidney functions tests done by your primary doctor are normal."
+    },
+    "s4": {
+      "T": "OPHTHALMOLOGIST",
+      "D": "An ophthalmologist is among the specialists involved in treating diabetes. Over time, patients with diabetes develop eye complications because of high sugar levels that damage the delicate eye structures and retina. These complications include diabetic macular edema, diabetic retinopathy, glaucoma, and cataracts. When you’re diagnosed with diabetes, you are referred to an ophthalmologist for basic examination. The specialist checks for diabetic retinopathy and other complications of the eyes associated with diabetes. An annual visit to the eye doctor can help you in the early detection of diseases of the eyes caused by diabetes."
+    },
+    "s5": {
+      "T": "PODIATRIST",
+      "D": "A podiatrist is a foot specialist and helps diabetic patients maintain their foot health which is prevalent in patients with diabetes. Patients who have difficulties controlling their blood sugar levels are at a higher risk of developing diabetic neuropathy. This condition changes how the nerves in the lower legs and feet relay messages to the brain. Diabetic neuropathy is a serious condition because it can cause you to lose feeling in your feet and legs. For instance, you could step on a sharp object and not feel pain. If you get an infection, it might not heal as it should because of the elevated blood sugar levels. In extreme cases, some patients have lower limbs, feet, and toes amputated because of this condition. Regular visits to the foot doctor can help in the early detection of foot ulcers."
+    },
+    "s6": {
+      "T": "CARDIOLOGIST",
+      "D": "Heart diseases are extremely common in patients with Diabetes because these have similar risk factors. The majority of deaths in patients with diabetes are due to cardiovascular diseases. A Cardiologist helps you to maintain your heart health despite battling diabetes."
+    },
+    "s7": {
+      "T": "DIETICIAN",
+      "D": "A diabetes dietician is a specialist who offers evidence-based dietary advice to patients with diabetes based on medication, nutritional status, lifestyle, and diabetes control. A dietician helps you to control this condition by understanding the most appropriate diet that one should consume. This specialist also helps you to reduce the risk of getting diabetes-related complications like kidney failure and cardiovascular disease. You need several visits to your dietician because you need to develop a diet plan that helps to manage your blood sugar levels. You should see a dietician whether you’re newly diagnosed with diabetes or you’ve been managing it for a while. You can keep a food diary and show your dietician during your visits to help the specialist determine how your diet affects your blood sugar levels."
+    },
+    "AYUSH1": {
+      "Title": "Shamana (Palliative) treatment",
+      "Desc": "Amalaki churna (Phyllanthus emblica Gartn.), Haridra churna (Curcuma longa linn.), Jambu bijachurna (Syzygium cumini Linn.), Meshasringi churna (Gymnema sylvestre R. Br), Methika churna(Trigonella foenum- graecum Linn), Vijaysara churna (Pterocarpus marsupium Roxb.) Nishamalaki churna/tablet, Triphala churna/ tablet, Shiva gutika, Chandraprabhavati, Silajatvadi vati, Dhanvantara ghrita (for Diabetic carbuncles), Kshira baladi taila (for Diabetic Neuropathy), Saptamrita lauha (for Diabetic Retinopathy)"
+    },
+    "AYUSH2": {
+      "Title": "Samshodhana Chikitsa (Purificatory procedures)",
+      "Desc": "is a specialized therapeutic approach of Ayurveda to eliminate toxins from the body by giving bio-cleansing procedures i.e. Panchakarma. It is usually followed by Shamana Chikitisa (Palliative therapy). In obese patients (Sthoola Pramehi): Samsodhana Cikitsa (Bio Cleansing Therapy) in the form of Vamana, Virechana, Vasti followed by Shamana Chikitisa (Palliative therapy) is performed. However, it is decided by the physician according to the condition of the patient whether Shodhana therapy is indicated or not. In lean and thin patients (Krish Pramehi): only Shamana Chikitsa (Palliative Therapy) is given."
+    },
+    "AYUSH3": {
+      "Title": "Rasayana (Rejuvenation Therapy)",
+      "Desc": "Shilajatu, Amalaki, Haridra."
+    },
+    "AYUSH4": {
+      "Title": "Life Style Modifications",
+      "Desc": "such as regular exercise especially walking, regular practice of Yoga, Meditation etc. under supervision."
+    },
+    "DO1": "Timely intake of diet.",
+    "DO2": "Intake of old harvested cereals, barley (Yava), Sorghum (Jowar), whole wheat atta, bitter gourd (Karela), green leafy vegetables, garlic (Lasuna), turmeric (Haridra), aloe (Kumari) in vegetables and fruits like Guava, Oranges, Indian Blackberry (Jamun) etc. may be useful.",
+    "DO3": "Reduce intake of rice, food rich in carbohydrate and fried or processed food.",
+    "DO4": "(Karela), green leafy vegetables, garlic (Lasuna), turmeric (Haridra), aloe (Kumari) in vegetables and fruits like Guava, Oranges, Indian Blackberry (Jamun) etc. may be useful.",
+    "DONT1": "Sugarcane juice, jaggery, sugar, milk products.",
+    "DONT2": "Tubers, sweets, soft drinks, fried foods and sweet fruits like mango, banana, custard apple and date etc. are to be avoided.",
+    "DONT3": "Staying too long on empty stomach.",
+    "DONT4": "Ice cream, burger- pizza and other fast foods etc.",
+    "DONT5": "Sedentary lifestyle.",
+    "DONT6": "Sleeping in the day time and excessive sleeping",
+    "DONT7": "Dont drink Alcohol"
+  }
