@@ -75,5 +75,48 @@
     "title": "Siddha",
     "description": "For chikungunya medicines are available in siddha. Some of them are: Nilavenbu kudineer mixture, Pinda thailam, Karpooraadhi thailam."
   }
+},
+  {
+  "_id": {
+    "$oid": "65d6e2bfcbfaac34b6dee5ee"
+  },
+  "name": "Malaria",
+  "question": "What is Malaria?",
+  "Overview": "Malaria is a serious disease caused by a parasite that infects a certain type of mosquito. Most people get malaria from the bite of an infective mosquito. Malaria can be a deadly disease if not diagnosed and treated quickly. Starting treatment as soon as possible can often prevent severe illness and death. There are 4 types of malarial parasites namely Plasmodium vivax, Plasmodium falciparum, Plasmodium malaria and Plasmodium ovale.",
+  "type1": "Plasmodium vivax",
+  "type2": "Plasmodium falciparum",
+  "type3": "Plasmodium malaria ",
+  "type4": "Plasmodium ovale",
+  "transmission": "Malaria is transmitted through the bite of an infective Anopheles mosquito. These mosquitoes typically bite between dusk and dawn. The parasites multiply in the liver and then infect red blood cells, causing symptoms. Traveling to endemic areas, mosquito exposure, lack of personal protection measures, time of outdoor activity, living conditions, immune status, healthcare access, and drug resistance are all factors contributing to the transmission of malaria.",
+  "measure1title": "Personal Prophylactic Measures",
+  "measure1description": "Early diagnosis of fever and taking complete radical treatment will prevent transmission of malaria parasites. Wear loose-fitting, long-sleeved shirts and pants. Keep windows and doors closed or covered with screens to keep mosquitoes out of your house. Empty standing water at least once a week to prevent mosquitoes from laying eggs.",
+  "measure2title": "Biological Control",
+  "measure2description": "Larval source management by mosquito breeding source reduction and application of Temephos in breeding sources.",
+  "measure3title": "Chemical Control",
+  "measure3description": "Intensified IEC activities.",
+  "measure4title": "Environmental Management & Source Reduction Methods",
+  "measure4description": "Identification and destruction of mosquito breeding sources. Management of roof tops, porticos, and sunshades. The water storing containers should be scrubbed and washed with bleaching powder every week. They should be properly covered with a cloth or sheet so as to prevent mosquito breeding in the water containers. Reliable water supply. Observation of weekly dry day.",
+  "measure5title": "Health Education",
+  "measure5description": "Impart knowledge to common people regarding the disease and vector through various media sources like T.V., Radio, Cinema slides, etc.",
+  "risk1": "Travel to Endemic Areas: Traveling to regions where malaria is prevalent increases the risk of exposure to the parasite.",
+  "risk2": "Mosquito Exposure: Being in areas where Anopheles mosquitoes, the vectors for malaria, are present increases the risk of transmission.",
+  "risk3": "Lack of Personal Protection Measures: Not using mosquito repellent, bed nets, or wearing protective clothing in endemic areas increases the risk of mosquito bites.",
+  "risk4": "Time of Outdoor Activity: Being outdoors during peak mosquito biting times (dusk and dawn) increases the risk of being bitten.",
+  "risk5": "Living Conditions: Living in or near areas with poor sanitation, inadequate housing, and standing water increases the risk of mosquito breeding and malaria transmission.",
+  "risk6": "Immune Status: Individuals with weakened immune systems, such as young children, pregnant women, and individuals with HIV/AIDS, are at higher risk of developing severe malaria if infected.",
+  "risk7": "Healthcare Access: Limited access to healthcare facilities for diagnosis and treatment can delay appropriate management of malaria, increasing the risk of severe complications.",
+  "risk8": "Drug Resistance: Resistance of the malaria parasite to antimalarial drugs can make treatment less effective, leading to prolonged illness and increased risk of complications.",
+  "ayush1": {
+    "title": "Mahasudarshan Churna, Tribhuvan kirti & Parijat vati",
+    "description": "Ayurveda has proven medicines to treat malaria viz. Mahasudarshan Churna, Tribhuvan kirti & Parijat vati, which treat “Visham jwara” its Ayurvedic indication."
+  },
+  "ayush2": {
+    "title": "Neem, Kalmegh & Harsingar",
+    "description": "Folk medicines reported, but rarely, to treat malaria include Neem, Kalmegh & Harsingar, where in a clinical study in Mumbai on 120 Malaria patients, 77% showed complete parasite eradication within 7 days of treatment with the leaf paste, and is also found safe."
+  },
+  "ayush3": {
+    "title": "Ayush 64",
+    "description": "Ayush 64 is a polyherbal formulation developed by the Central Council for Research in Ayurvedic Science in the year 1980, for Malaria. Based on many clinical studies found that effective in asymptomatic, mild, and moderate COVID-19 infections as an adjunct to standard care. It is a combination of four Ayurvedic drugs; Alstonia scholaris, Picrorhiza kurroa, Swertia chirata, and Caesalpinia crista: the active ingredients showed notable antiviral, immunomodulatory, and antipyretic properties: that enables relief from cough, cold and joint pain. And also significantly reduce the duration of clinical recovery in terms of disease symptoms and severity."
+  }
 }
 ]
