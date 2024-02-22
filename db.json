@@ -8,34 +8,20 @@
     "fact1": "Almost half of the world’s population, about 4 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk.",
     "fact2": "Each year, up to 400 million people are infected by a dengue virus.",
     "fact3": "Approximately 100 million people get sick from infection, and 40,000 die from severe dengue.",
-    "measure1": {
-            "title": "Personal Prophylactic Measures",
-            "description": "Use of mosquito repellent creams, liquids, coils, mats etc. Wearing of full sleeve shirts and full pants with socks. Use of bed nets for sleeping infants and young children during day time to prevent mosquito bite."
-    },
-    "measure2": {
-            "title": "Biological Control",
-            "description": "Use of larvivorous fishes in ornamental tanks, fountains, etc."
-    },
-    "measure3": {
-            "title": "Chemical Control",
-            "description": "Use of chemical larvicides like Temephos 50% EC in big water holdings. Aerosol space spray during day time in and around the houses, market places, large campuses and buildings using Pyrethrum 2% Extract."
-    },
-    "measure4": {
-            "title": "Environmental Management & Source Reduction Methods",
-            "description": "Identification and destruction of mosquito breeding sources. Management of roof tops, porticos and sunshades. The water storing containers should be scrubbed and washed with bleaching powder every week. They should be properly covered with a cloth or sheet so as to prevent mosquito breeding in the water containers. Reliable water supply. Observation of weekly dry day."
-    },
-    "measure5": {
-            "title": "Health Education",
-            "description": "Impart knowledge to common people regarding the disease and vector through various media sources like T.V., Radio, Cinema slides, etc."
-    },
-    "measure6": {
-            "title": "Dengue Fever mobile App in Tamil",
-            "description": "The Dengue Fever Mobile App can be downloaded from Google Play Store. Dengue Fever Tamil App provides complete pictorial information about the sources where Aedes mosquitoes breed along with an exhaustive Frequently Asked Questions. Information on effective siddha treatment is made available."
-    },
-    "measure7": {
-            "title": "Community Participation",
-            "description": "Sensitizing and involving the community for detection of Aedes breeding places and their elimination."
-    },
+    "measure1title": "Personal Prophylactic Measures",
+    "measure1description": "Use of mosquito repellent creams, liquids, coils, mats etc. Wearing of full sleeve shirts and full pants with socks. Use of bed nets for sleeping infants and young children during day time to prevent mosquito bite.",
+    "measure2title": "Biological Control",
+    "measure2description": "Use of larvivorous fishes in ornamental tanks, fountains, etc."
+    "measure3title": "Chemical Control",
+    "measure3description": "Use of chemical larvicides like Temephos 50% EC in big water holdings. Aerosol space spray during day time in and around the houses, market places, large campuses and buildings using Pyrethrum 2% Extract.",
+    "measure4title": "Environmental Management & Source Reduction Methods",
+    "measure4description": "Identification and destruction of mosquito breeding sources. Management of roof tops, porticos and sunshades. The water storing containers should be scrubbed and washed with bleaching powder every week. They should be properly covered with a cloth or sheet so as to prevent mosquito breeding in the water containers. Reliable water supply. Observation of weekly dry day.",
+    "measure5title": "Health Education",
+    "measure5description": "Impart knowledge to common people regarding the disease and vector through various media sources like T.V., Radio, Cinema slides, etc.",
+    "measure6title": "Dengue Fever mobile App in Tamil",
+    "measure6description": "The Dengue Fever Mobile App can be downloaded from Google Play Store. Dengue Fever Tamil App provides complete pictorial information about the sources where Aedes mosquitoes breed along with an exhaustive Frequently Asked Questions. Information on effective siddha treatment is made available.",
+    "measure7title": "Community Participation",
+    "measure7description": "Sensitizing and involving the community for detection of Aedes breeding places and their elimination.",
     "risk1": "Mosquito Exposure: Being in areas where mosquitoes that carry the dengue virus are present increases the risk.",
     "risk2": "Travel: Traveling to regions where dengue is endemic or epidemic exposes individuals to the virus.",
     "risk3": "Lack of Vector Control: Poor mosquito control measures in urban or rural areas can lead to higher mosquito populations and thus increase the risk of dengue transmission.",
@@ -61,10 +47,8 @@
     "question": "What is Chikungunya?",
     "Overview": "Chikungunya virus is spread to people by the bite of an infected mosquito. The most common symptoms of infection are fever and joint pain. Other symptoms may include headache, muscle pain, joint swelling, or rash. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, and the Caribbean, Indian and Pacific Oceans. There is a risk the virus will be spread to unaffected areas by infected travelers. There is currently no medicine to treat chikungunya virus infection.",
     "transmission": "Chikungunya virus is transmitted by mosquitoes, most commonly Aedes (Stegomyia) aegypti and Aedes (Stegomyia) albopictus, which can also transmit dengue and Zika viruses. These mosquitoes bite primarily during daylight hours. They lay eggs in containers with standing water. Both species feed outdoors, and Aedes aegypti also feeds indoors. When an uninfected mosquito feeds on a person who has CHIKV circulating in their blood, the mosquito can ingest the virus. The virus then replicates in the mosquito over several days, gets to its salivary glands, and can be transmitted into a new human host when the mosquito bites them. The virus again begins to replicate in this newly infected person and reaches high concentrations in their blood, at which point they can further infect other mosquitoes and perpetuate the transmission cycle",
-    "measure1": {
-            "title": "Vaccination",
-            "description": "No vaccine or medication is available to prevent chikungunya virus infection or disease. Reduce mosquito exposure by Using air conditioning or window/door screens, using mosquito repellents on exposed skin, wearing long-sleeved shirts and long pants, wearing permethrin-treated clothing. Empty standing water from outdoor containers. People suspected to have chikungunya or dengue should be protected from further mosquito exposure during the first week of illness to reduce the risk of further transmission. People at increased risk for severe disease should consider not traveling to areas with ongoing chikungunya outbreak."
-    },
+    "measure1title": "Vaccination",
+    "measure1description": "No vaccine or medication is available to prevent chikungunya virus infection or disease. Reduce mosquito exposure by Using air conditioning or window/door screens, using mosquito repellents on exposed skin, wearing long-sleeved shirts and long pants, wearing permethrin-treated clothing. Empty standing water from outdoor containers. People suspected to have chikungunya or dengue should be protected from further mosquito exposure during the first week of illness to reduce the risk of further transmission. People at increased risk for severe disease should consider not traveling to areas with ongoing chikungunya outbreak.",
     "risk1": "Mosquito Exposure: Being in areas where Aedes mosquitoes, particularly Aedes aegypti and Aedes albopictus, are present increases the risk of chikungunya virus transmission.",
     "risk2": "Travel: Traveling to regions where chikungunya is endemic or experiencing outbreaks increases the risk of exposure to the virus.",
     "risk3": "Outdoor Activities: Spending time outdoors, especially during periods of peak mosquito activity, increases the likelihood of being bitten by infected mosquitoes.",
