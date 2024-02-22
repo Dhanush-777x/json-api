@@ -1,7 +1,15 @@
 [
   {
     "name": "Dengue",
-    "Overview": "Dengue is a viral disease.It is transmitted by the infective bite of Aedes aegypti and Aedes albopictus mosquitoes. These mosquitoes also spread Zika, chikungunya, and other viruses. Man develops disease after 5-6 days of being bitten by an infective mosquito.Dengue is caused by one of any of four related viruses: dengue virus 1, 2, 3, and 4. A person  can be infected with dengue multiple times in their life",
+    "Overview": "What is Dengue?
+    Dengue is a viral disease. It is transmitted by the infective bite of Aedes aegypti and Aedes albopictus mosquitoes. These mosquitoes also spread Zika, Chikungunya, and other diseases. Man develops disease after 5-6 days of being bitten by an infective mosquito. Infected person with Dengue becomes infective to mosquitoes 6 to 12 hours before the onset of the disease and remains so upto 3 to 5 days.
+    Dengue is caused by one of any of four related viruses: Dengue virus 1, 2, 3, and 4.  A person can be infected with dengue multiple times in their life. 
+    It occurs in two forms:
+    •	Dengue Fever: is a flu-like illness
+    •	Dengue Haemorrhagic Fever (DHF): is a more severe form of disease, which may cause death
+    Person suspected of having dengue fever or DHF must attend the nearest medical facility.
+    Almost half of the world’s population, about 4 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk. Each year, up to 400 million people are infected by a dengue virus. Approximately 100 million people get sick from infection, and 40,000 die from severe dengue.",
+
     "type1": "Dengue Fever: Dengue Fever is a flu-like illness",
     "type2": "Dengue Haemorrhagic Fever (DHF): Dengue Haemorrhagic Fever (DHF) is a more severe form of disease, which may cause death Person suspected of having dengue fever or DHF must attend the nearest medical facility.",
     "facts": "Almost half of the world’s population, about 4 billion people, live in areas with a risk of dengue. Dengue is often a leading cause of illness in areas with risk.Each year, up to 400 million people are infected by a dengue virus. Approximately 100 million people get sick from infection, and 40,000 die from severe dengue.",
