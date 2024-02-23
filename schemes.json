@@ -68,6 +68,14 @@
 "description": "The Grant-in-aid Scheme for Inter-Sectoral Convergence & Coordination for Promotion and Guidance on Health Research aims to strengthen research efforts by fostering collaboration among government agencies, NGOs, and the industry. Approved during the 12th Plan period, this scheme, administered by the Department of Health Research under the Ministry of Health & Family Welfare, provides grant-in-aid support for research studies to bridge knowledge gaps and translate health innovations into tangible products. Special emphasis is placed on encouraging innovation, collaboration, and implementation research to enhance the utilization of available knowledge.",
 "link": "https://dhr.gov.in/schemes/grant-aid-scheme-inter-sectoral-convergence-coordination-promotion-and-guidance-health",
 "level": "Central",
-"benefit_type": "Cash"}
+"benefit_type": "Cash"},
+  
+{
+"title": "Employees' State Insurance Scheme",
+"description": "The Employees' State Insurance Scheme, governed by the Employees' State Insurance Act of 1948, provides social insurance for employees against sickness, maternity, disablement, and death due to employment injury. It covers establishments with 10 or more employees, including factories, road transport, hotels, restaurants, cinemas, newspapers, shops, and educational/medical institutions (with some states having a threshold of 20 employees). Employees earning up to Rs.15,000 per month are eligible for coverage, with the wage ceiling recently increased to Rs.21,000 by the ESI Corporation.",
+"link": "https://www.esic.gov.in/",
+"level":"Central",
+"benefit_type": "Cash"
+}
 
 ]
